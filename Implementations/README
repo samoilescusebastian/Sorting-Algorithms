@@ -1,0 +1,22 @@
+Copyright Sebastian Samoilescu 2019
+
+|--------------------------------|
+|   Nume:  Sebastian Samoilescu  |
+|   Grupa: 325CA                 |
+|--------------------------------|
+
+Generare Teste
+
+
+---> Pentru tipul de date integer am considerat un set de date aproape sortat ca fiind un set
+     de date sortat in care o parte din informatie a fost interchimbata.
+
+---> Pentru tipul de date string am considerat un set de date aproape sortat ca fiind un set
+     de date in care majoritatea informatiilor au fost generate sortate(96%), iar cealalta parte
+     a fost generata random (4%).
+
+Solutii
+
+---> Solutiile sunt testate din fisierele test.cpp unde se poate introduce schimba calea catre test
+
+---> In fiecarea folder de testare a unei solutii se afla un Makefile cu 3 reguli(build, run, clean)
